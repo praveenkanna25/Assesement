@@ -1,6 +1,6 @@
 Question 2:
-Public class Jumbled{
-Public static void main(String[]args){
+public class Jumbled{
+public static void main(String[]args){
 System.ou.println("Enter the number");
 Scanner sc=new Scanner(System.in);
 String a=sc.next();
