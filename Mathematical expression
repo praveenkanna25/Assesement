@@ -1,0 +1,14 @@
+Public class Arithmatic{
+public static void main (String[]args){
+Scanner sc=new Scanner(System.in);
+char c=sc.next().charAt(0);
+int a=5;
+int b =4;
+int c;
+c=(a=b)(a*b);
+if(c>=0||c<+0){
+System.out.println("valid");
+}else
+System.out.println("not valid");
+}
+}
